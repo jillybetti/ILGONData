@@ -1,0 +1,10 @@
+{
+  "main" : {
+    "staking" : "0xebE14A98E366196f16529c5E9Ecfea43fbC9940b",
+    "compensation" : ""
+  }
+  "test" : {
+     "staking" : "0x933cdac7b0bD9519C84e8F1F74Be51b07921e596",
+     "compensation" : ""
+  }
+}
